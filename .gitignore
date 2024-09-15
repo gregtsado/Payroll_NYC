@@ -1,0 +1,4 @@
+*.env
+*.csv
+service_account_key.json
+nyc_service_accounts.json
