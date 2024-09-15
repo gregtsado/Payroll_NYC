@@ -28,17 +28,17 @@ team members
 
 ### Data Architecture
 ![CHEESE!](diagrams\data architecture.jpg)
+![alt text](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/data%20architecture.jpg)
 
 ### Data modelling
 ![CHEESE!](diagrams\nyc Diagram.jpg)
 
 ### Technologies utilized
-Vs-Code
-GPC BigQuery
-Buckets
-Draw.io
-Cloud-Composer
-Airflow
+Vs-Code,
+GPC-BigQuery,
+Buckets,
+Draw.io,
+Cloud-Composer-Airflow
 
 
 ### Step for step process of project execution
