@@ -27,11 +27,10 @@ Properly document all your processes for reproducibility – version control
 team members
 
 ### Data Architecture
-![CHEESE!](diagrams\data architecture.jpg)
 ![alt text](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/data%20architecture.jpg)
 
 ### Data modelling
-![CHEESE!](diagrams\nyc Diagram.jpg)
+![alt text](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/nyc%20Diagram.jpg)
 
 ### Technologies utilized
 Vs-Code,
