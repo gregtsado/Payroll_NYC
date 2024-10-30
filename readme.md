@@ -31,7 +31,7 @@ team members
 
 
 ### Data modelling
-<img src="diagrams\nyc Diagram.jpg" alt="Image Description" width="50%"/>
+<img src="diagrams\nyc Diagram.jpg" alt="Image Description" width="75%"/>
 
 ### Technologies utilized
 Vs-Code,
@@ -53,4 +53,4 @@ Cloud-Composer-Airflow
 - Set up airflow to schedule task through cloud composer
 - Properly document all your processes for reproducibility – version control
 
-<img src="diagrams\GCP.png" alt="Image Description" width="50%"/>
+<img src="diagrams\GCP.png" alt="Image Description" width="75%"/>
