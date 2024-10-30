@@ -27,7 +27,7 @@ Properly document all your processes for reproducibility – version control
 team members
 
 ### Data Architecture
-![alt text](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/data%20architecture.jpg)
+![alt text](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/archi_nyc.jpg)
 
 ### Data modelling
 ![alt text](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/nyc%20Diagram.jpg)
@@ -54,3 +54,5 @@ Cloud-Composer-Airflow
 • Set up airflow to schedule task through cloud composer
 
 • Properly document all your processes for reproducibility – version control
+
+![alt text](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/GCP.jpg)
