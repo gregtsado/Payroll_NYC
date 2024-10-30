@@ -27,10 +27,11 @@ Properly document all your processes for reproducibility – version control
 team members
 
 ### Data Architecture
-![CHEESE!](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/archi_nyc.jpg)
+<img src="diagrams/archi_nyc.jpg" alt="Image Description" width="50%"/>
+
 
 ### Data modelling
-![CHEESE!](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/nyc%20Diagram.jpg)
+<img src="diagrams\nyc Diagram.jpg" alt="Image Description" width="50%"/>
 
 ### Technologies utilized
 Vs-Code,
@@ -42,17 +43,14 @@ Cloud-Composer-Airflow
 
 ### Step for step process of project execution
 
-• Develop a schema showing the data models with draw.io
-• Extracted the files from csv onto the python environment
-• Loaded the raw files into the gcp bucket
-• Performed tranformation on the files and uploaded to a cleaned folder in the buckets
-• Loaded the raw files into the gcp bucket
-• transfered cleaned files to a bigquery datawarehouse in a stagging environment
+- Develop a schema showing the data models with draw.io
+- Extracted the files from csv onto the python environment
+- Loaded the raw files into the gcp bucket
+- Performed tranformation on the files and uploaded to a cleaned folder in the buckets
+- Loaded the raw files into the gcp bucket
+- transfered cleaned files to a bigquery datawarehouse in a stagging environment
+- Created stored procedures and created loaded aggregated data in a production dataset in the datawarehouse
+- Set up airflow to schedule task through cloud composer
+- Properly document all your processes for reproducibility – version control
 
-• Created stored procedures and created loaded aggregated data in a production dataset in the datawarehouse
-
-• Set up airflow to schedule task through cloud composer
-
-• Properly document all your processes for reproducibility – version control
-
-![CHEESE!](https://github.com/gregtsado/Payroll_NYC/blob/master/diagrams/GCP.png)
+<img src="diagrams\GCP.png" alt="Image Description" width="50%"/>
